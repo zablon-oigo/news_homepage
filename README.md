@@ -6,6 +6,10 @@ The news homepage was  an excellent opportunity to practice my CSS Grid skills. 
 
 https://animated-hotteok-80dc85.netlify.app/
 
+## Tech Stack
+
+**Client:** Html, Javascript, TailwindCSS
+
 
 ## Screenshots 
 
